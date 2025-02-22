@@ -23,7 +23,7 @@ export default function FilesPage() {
       name: "Unimapper Mindmap",
       type: "folder",
       description: "diagram tool for mind mapping and creative thinking for individual and team collaboration.",
-      downloadUrl: "/files/5622.rar"
+      downloadUrl: "/files/562666552.rar"
     },
     {
       id: "3",
