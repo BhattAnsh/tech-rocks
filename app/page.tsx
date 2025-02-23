@@ -30,7 +30,7 @@ export default function FilesPage() {
       name: "Habitation",
       type: "folder",
       description: "Build fundamentals to build new habits with incorporated gamification.",
-      downloadUrl: "/files/news-website-main.zip"
+      downloadUrl: "/files/4368_email_notif_missed_habit.zip"
     },
   ]
 
